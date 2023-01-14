@@ -96,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  G-D40C9S186P
     anonymize_ip         : # true, false (default)
 
 
@@ -106,9 +106,11 @@ analytics:
 author:
   name             : "hahawolf.eth"
   avatar           : "/assets/images/hahawolf-avatar.png"
-  bio              : "I am an **amazing** person."
+  bio              : "web3 native"
   location         : "Seattle, WA"
-  email            :
+  twitter          : "hahawolf_eth"
+  instagram        : "crescentbarxyz"
+  email            : "hahawolf@protonmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
