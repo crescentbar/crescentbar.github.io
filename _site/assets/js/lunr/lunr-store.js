@@ -4,10 +4,4 @@ var store = [{
         "tags": [],
         "url": "/an-important-truth-few-people-agree-with/",
         "teaser": null
-      },{
-        "title": "Hello World",
-        "excerpt":"12324  ","categories": [],
-        "tags": [],
-        "url": "/hello-world/",
-        "teaser": null
       }]
