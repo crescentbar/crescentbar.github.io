@@ -109,6 +109,7 @@ author:
   bio              : "web3 native"
   location         : "Seattle, WA"
   twitter          : "hahawolf_eth"
+  youtube          : "crescentbarxyz"
   instagram        : "crescentbarxyz"
   email            : "hahawolf@protonmail.com"
   links:
@@ -126,7 +127,9 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      # url: "https://youtube.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
