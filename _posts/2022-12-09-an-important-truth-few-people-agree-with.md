@@ -31,7 +31,7 @@ Ok, I sound like a tinfoil hat mad man?  Why do I believe this to be true?
 I’m not calling any top or bottom of any cryptocurrency, I don’t know when to buy or sell, I’m not a trader, and I’m not interested in market speculation or short term price movements. However, I am deeply invested in crypto and web3’s fundamental value proposition, and naturally have high conviction long term bets in this space that I am willing to be wrong about. You can lose what you put in, always do your own research. With risk and uncertainty comes opportunity, but please know what you are getting into. Most tokens are worthless garbage, in my opinion there is only a small handful worth paying attention to.
 
 ## Blockchain Overview
-**__If you already understand blockchain basics please feel free to skip ahead, this is meant to an "explain it to me like I'm five" overview of how crypto works.__**
+***If you already understand blockchain basics please feel free to skip ahead, this is meant to an "explain it to me like I'm five" overview of how crypto works.***
 
 #### Decentralized Ledgers
 blockchains such as bitcoin, are basically an accounting ledger, in the same way your checking account with your bank is an accounting ledger of debts and credits to the dollar value in your account. What makes this blockchain ledger different than the one with your Wells Fargo account, is a blockchain ledger is distributed across thousands of computers across the world, there is no central authority, it doesn't require trust, and if properly decentralized, it is a digital organism that cannot lie and cannot be turned off, in the same way nobody can turn off the internet today.
@@ -51,3 +51,23 @@ In this group at a table analogy, it is easy to imagine collusion, where a few f
 Assuming a blockchain is sufficiently decentralized through this consensus mechanism, it can be considered trustless, credibly neutral, and censorship resistant.
 
 In other words, people across the world can agree on very little, but nobody will argue with the amount of ether in a Ethereum wallet. It doesn’t matter if you are Greta Thunberg, Kim Jong-un, or Kim Dot Com, there are no differences of opinion, because the blockchain doesn't take sides and isn't susceptible to manipulation and corruption in the same way centralized authority is.
+
+## Ownership in General
+#### Capitalism and its shortcomings
+A quick aside on human nature, if you don't see how even the most selfless humanitarians (Mother Theresa, Nelson Mandela, Mahatma Gandhi, etc…) operated in their own self interest, the book Awareness by the Indian Jesuit priest and quasi buddhist, Anthony de Mello, provides some explanation. He argues there are three types of selfishness (quoted):
+
+1. First, when I do something, or rather, when I give myself the pleasure of pleasing myself; quite unrefined.
+2. Second, when I give myself the pleasure of pleasing others. Don’t take pride in that. Don’t think you’re a great person. You’re a very ordinary person, but you’ve got refined tastes. When you were a child, you liked Coca-Cola; now you’ve grown older and you appreciate cold beer on a hot day. You’ve got better tastes. But you’re getting your pleasure all the same, except now it’s in the pleasure of pleasing others.
+3. Then you’ve got the third type, which is the worst: when you do something good to avoid the guilt of not doing it. The good deed doesn’t give you a good feeling, you hate it. You’re making loving sacrifices but you’re grumbling. How little you truly know yourself if you think you don’t do things this way as well.
+
+Humans are the most refined animals. We've gotten to type 2 and 3 of selfishness, whereas all other animals are stuck with the first type.
+
+Because of the inherent self-interested nature of all living things, fundamentally an evolutionary drive to survive and thrive, while flawed, I believe capitalism is aligned with motivations of the natural world. However, capitalism today is broken and needs reform.
+
+Looking at history, Ray Dalio notes in his [essay on the needed reform of capitalism](https://corpgov.law.harvard.edu/2020/10/13/why-and-how-capitalism-needs-to-be-reformed/):
+
+> The communist philosophy of “from each according to his ability, to each according to his needs” turned out to be naïve because people were not motivated to work hard if they didn’t get commensurately rewarded, so prosperity suffered. Capitalism, which connects pay to productivity and creates efficient capital markets that facilitate savings and the availability of buying power to fuel people’s productivity, worked much better.
+
+But today, capitalism is broken, and it’s not the result of evil rich people or lazy poor people. Dalio argues:
+
+> All good things taken to an extreme become self-destructive and everything must evolve or die, and that these principles now apply to capitalism. While the pursuit of profit is usually an effective motivator and resource allocator for creating productivity and for providing those who are productive with buying power, it is now producing a self-reinforcing feedback loop that **widens the income/wealth/opportunity gap** to the point that **capitalism and the American Dream are in jeopardy. That is because capitalism is now working in a way in which people and companies find it profitable to have policies and make technologies that lessen their people costs, which lessens a large percentage of the population’s share of society’s resources.**
