@@ -13,8 +13,6 @@ Unfortunately, the onslaught of bad optics is masking technology that I believe 
 
 > **The internet is one of humanity's greatest technological achievements, and I believe blockchain technology provides the rails for an internet of value revolution that will eventually disrupt and reshape the world more dramatically than the original internet itself. The fundamental value proposition of blockchains is internet native scarcity. It's difficult to fully conceptualize and articulate the scope of what this unlocks, but it often keeps me up at night, and may well eventually reorder the entire world financial and banking system, nation state governance, taxation, social services and social coordination, financial coordination (corporations), commerce, sports, and entertainment, and on and on. That reordering will be inherently more transparent and fair than the systems we live with today.**
 
----
-
 Ok, I sound like a tinfoil hat mad man?  Why do I believe this to be true?
 
 - Blockchains introduce protocols for an internet and **democratization of value** in the same way TCP/IP protocols democratized information and underpin the open internet today. They are a fundamentally new kind of computer, because they make lasting commitments and provide credibly neutral scarcity in the digital world for the first time. They don’t solve any computer science problems, which is why a lot of CSE types roll their eyes, instead they solve a human coordination problem that requires people to zoom out and look at a variety of disciplines from first principles.
