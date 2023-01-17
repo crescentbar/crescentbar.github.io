@@ -29,3 +29,25 @@ Ok, I sound like a tinfoil hat mad man?  Why do I believe this to be true?
 ## Not Financial Advice
 
 I’m not calling any top or bottom of any cryptocurrency, I don’t know when to buy or sell, I’m not a trader, and I’m not interested in market speculation or short term price movements. However, I am deeply invested in crypto and web3’s fundamental value proposition, and naturally have high conviction long term bets in this space that I am willing to be wrong about. You can lose what you put in, always do your own research. With risk and uncertainty comes opportunity, but please know what you are getting into. Most tokens are worthless garbage, in my opinion there is only a small handful worth paying attention to.
+
+## Blockchain Overview
+**__If you already understand blockchain basics please feel free to skip ahead, this is meant to an "explain it to me like I'm five" overview of how crypto works.__**
+
+#### Decentralized Ledgers
+blockchains such as bitcoin, are basically an accounting ledger, in the same way your checking account with your bank is an accounting ledger of debts and credits to the dollar value in your account. What makes this blockchain ledger different than the one with your Wells Fargo account, is a blockchain ledger is distributed across thousands of computers across the world, there is no central authority, it doesn't require trust, and if properly decentralized, it is a digital organism that cannot lie and cannot be turned off, in the same way nobody can turn off the internet today.
+
+#### Consensus
+Blockchains achieves this decentralization through a distributed consensus mechanism. Distributed consensus is the core piece of innovation that blockchains provide, and while it can be technically complex, it can also be simplified.
+
+I will focus on the proof-of-stake form of consensus used by Ethereum, since that is the environmentally friendly option today and in my opinion also the most capital efficient.
+
+Imagine a group of people sitting around a table, each with 10 poker chips. At the beginning of a block, or round, if a person wants to help validate the transactions at the table, they push 3 chip into the center, and are called a “validator”. All these validators then watch as all folks around the table engage in commerce, trading their chips for goods and services, etc... after a set number of trades, they reach the end of the block, or round, and all of the validators that have been watching the commerce write their observations on a piece of paper and push them to the center of the table. Jane sent Bob 2 chips, Bob sent Maurice 1 chip etc... As a group, the validators review the recorded observations together. If a validator reports transactions that are consistent with more than half the other validators, they earn an extra chip as payment for their services of validating the transactions. if their report of the transactions conflicts with most of the validators, they lose the 3 chips they put in.
+
+Basically, the validators are all financially incentivized to tell the truth, they are rewarded for being honest, and punished for being dishonest.
+
+In this group at a table analogy, it is easy to imagine collusion, where a few folks get together and and lie about the transactions for their mutual benefit. This is called a 51% attack, where a single group or individual owns and controls 51% of the validators and cooks the books. But at scale, in a properly decentralized system with thousands of validators across the globe, where each validator needs substantial capital to participate, and where flows of capital are publicly traceable, it becomes technically possible but practically unlikely for this to occur. There is also social coordination level defense against this type of attack that we don't need to get into here.
+
+#### Trust Minimzed Credible Neutrality
+Assuming a blockchain is sufficiently decentralized through this consensus mechanism, it can be considered trustless, credibly neutral, and censorship resistant.
+
+In other words, people across the world can agree on very little, but nobody will argue with the amount of ether in a Ethereum wallet. It doesn’t matter if you are Greta Thunberg, Kim Jong-un, or Kim Dot Com, there are no differences of opinion, because the blockchain doesn't take sides and isn't susceptible to manipulation and corruption in the same way centralized authority is.
