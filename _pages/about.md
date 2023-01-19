@@ -24,7 +24,7 @@ So grab a seat, the bartenders will mix you a Zombie, and let's escape the hum o
 
 ![](/assets/images/mdj/detail-cb-2.png)
 
-![](/assets/images/mdj/iso-cb-1.png)
+<!-- ![](/assets/images/mdj/iso-cb-1.png)
 
 ![](/assets/images/mdj/iso-cb-2.png)
 
@@ -34,4 +34,4 @@ So grab a seat, the bartenders will mix you a Zombie, and let's escape the hum o
 
 ![](/assets/images/mdj/lounge-cb-3.png)
 
-![](/assets/images/mdj/lounge-cb-4.png)
+![](/assets/images/mdj/lounge-cb-4.png) -->
