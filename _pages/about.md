@@ -18,11 +18,11 @@ So grab a seat, the bartenders will mix you a Zombie, and let's escape the hum o
 
 ![](/assets/images/mdj/bar-cb-2.png)
 
-![](/assets/images/mdj/booth-cb.png)
-
 ![](/assets/images/mdj/detail-cb-1.png)
 
 ![](/assets/images/mdj/detail-cb-2.png)
+
+![](/assets/images/mdj/booth-cb.png)
 
 <!-- ![](/assets/images/mdj/iso-cb-1.png)
 
