@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "hahawolf.eth"
   avatar           : "/assets/images/hahawolf-avatar.png"
-  bio              : "Peter Spier. wannabe creative, web3 native."
+  bio              : "Peter Spier - wannabe creative, web3 native."
   location         : "Seattle, WA"
   twitter          : "hahawolf_eth"
   youtube          : "crescentbarxyz"
@@ -281,6 +281,11 @@ compress_html:
   ignore:
     envs: development
 
+#Collections
+collections:
+  nfts:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -293,5 +298,13 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
+  # _nfts
+  - scope:
+      path: ""
+      type: nfts
+    values:
+      layout: single
+      author_profile: true
+      share: false

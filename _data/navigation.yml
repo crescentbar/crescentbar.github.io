@@ -1,5 +1,7 @@
 # main links
 main:
+   - title: "NFTs"
+     url: /nfts
    - title: "About"
      url: /about
    - title: "Gallery"
