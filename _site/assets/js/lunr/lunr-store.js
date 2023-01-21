@@ -1,6 +1,6 @@
 var store = [{
-        "title": "The Wall",
-        "excerpt":"Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn’t a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening &amp; War section...","categories": [],
+        "title": "Wall",
+        "excerpt":"✍️ Notes: This piece is part of the Grails Collection from the Proof Collective. Tyler Hobbs is one of the best selling generative artists of all time, and background behind the wall does does not disappoint. “Wall is an algorithmic appreciation of a brick wall - everything that it is...","categories": [],
         "tags": [],
         "url": "/nfts/wall/",
         "teaser": "/assets/images/nfts/wall-t.jpg"
