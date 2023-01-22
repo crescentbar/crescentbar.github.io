@@ -1,6 +1,6 @@
 var store = [{
         "title": "Wall",
-        "excerpt":"✍️ Notes: This piece is part of the Grails Collection from the Proof Collective. Tyler Hobbs is one of the best selling generative artists of all time, and background behind the wall does does not disappoint. “Wall is an algorithmic appreciation of a brick wall - everything that it is...","categories": [],
+        "excerpt":"Edition: 1 of 73 Blockchain: Ethereum Minted: March 3rd, 2022 Token: 525 ✍️ Notes: This piece is part of the Grails Collection from the Proof Collective. Tyler Hobbs is one of the best selling generative artists of all time, and background behind the wall does does not disappoint. “Wall is...","categories": [],
         "tags": [],
         "url": "/nfts/wall/",
         "teaser": "/assets/images/nfts/wall-t.jpg"

@@ -1,5 +1,5 @@
 ---
-title: nfts
+title:
 layout: collection
 permalink: /nfts/
 collection: nfts
